@@ -1,12 +1,15 @@
 body {
-	background: url(https://images.unsplash.com/photo-1531853121101-cb94c8ed218d) no-repeat center center fixed;
+	background: url(https://images.unsplash.com/photo-1531853121101-cb94c8ed218d) ;
 	-webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-position: center;
 	font-family: 'Berkshire Swash', cursive;
 	color: white;
 }
+
+/*no-repeat center center fixed*/
 
 html {
 	height: 100%;
